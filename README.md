@@ -11,7 +11,7 @@ This is a simple Temperature Calculator that allows users to convert temperature
 - HTML, CSS
 
 ## Live Demo
-You can try the live demo of this project [here](https://github.com/Ankithadevraj/Temperature-Calc).
+You can try the live demo of this project [here](https://ankithadevraj.github.io/Temperature-Calc/).
 
 ## How to Use
 1. Enter the temperature value in the input field.
