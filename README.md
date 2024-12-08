@@ -1,7 +1,5 @@
 # Temperature Calculator
 
-**Project by Ankitha Devraj**
-
 This is a simple Temperature Calculator that allows users to convert temperatures between Celsius, Kelvin, and Fahrenheit.
 
 ## Features
